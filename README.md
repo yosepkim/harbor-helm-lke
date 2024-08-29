@@ -98,7 +98,7 @@ After waiting for a few seconds, you now can get the external IP address by whic
 You can now add an A record to point your FQDN to the Harbor via the IP address. If you manage your domains in Linode, this [guide](https://techdocs.akamai.com/cloud-computing/docs/manage-dns-records) will walk you through the process. 
 
 
-### Access the protal
+### Access the UI portal
 You can use the following command to get the initial password 
 
 ```
